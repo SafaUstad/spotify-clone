@@ -229,7 +229,7 @@ body{
     display: flex;
     flex-direction: row;
     overflow: auto;
-    scrollbar-width: thin;
+    scrollbar-width: none;
 }
 
 .rec-play{
